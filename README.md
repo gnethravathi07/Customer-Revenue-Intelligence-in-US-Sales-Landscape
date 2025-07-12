@@ -1,1 +1,1 @@
-# Customer-Revenue-Intelligence-in-US-Sales-Landscape
+# Customer Revenue Intelligence in US Sales Landscape
